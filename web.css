@@ -1,0 +1,65 @@
+.body{
+
+   display: flex;
+   font-family: Roboto, sans-serif;
+}
+
+.logo {
+    width:100px;
+    height:100px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 60px;
+}
+.info{
+}
+img {
+    width: 160px;
+    height: 180px;
+}
+.card{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+    font-size: 30px;
+}
+
+.nav{
+
+   display: flex;
+   justify-content: space-around;
+   background-color: #1F2937;
+}
+
+.testimonial{
+    
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    margin:auto
+}
+
+.hero h1{
+
+    font-size: 48px;
+    color:#F9FAF8;
+    font-weight:900px;
+}
+
+.hero p{
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    
+}
